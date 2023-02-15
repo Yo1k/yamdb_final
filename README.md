@@ -32,6 +32,8 @@ the average of all scores of specific artwork.
 
 Anonymous users can only view resource materials.
 
+The service is deployed at: http://91.239.27.130/
+
 Tech stack: \
 [Django 2.2](https://docs.djangoproject.com/en/2.2/),
 [Django REST framefowrk 3.12](https://www.django-rest-framework.org)
