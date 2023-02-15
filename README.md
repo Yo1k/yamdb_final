@@ -5,12 +5,6 @@
 alt="Python requirement">
 </a>
 
-<a>
-<img src="https://img.shields.io/badge/Tests-passing-32CD32.svg?labelColor=555">
-</a>
-
-![workflow status](https://github.com/Yo1k/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
-
 <a href="https://flake8.pycqa.org/en/5.0.4/">
 <img src="https://img.shields.io/badge/flake8-5.0-E4D00A.svg?labelColor=555">
 </a>
@@ -18,6 +12,8 @@ alt="Python requirement">
 <a href="https://docs.pytest.org/en/6.2.x/contents.html">
 <img src="https://img.shields.io/badge/pytest-6.2-E4D00A.svg?labelColor=555">
 </a>
+
+![workflow status](https://github.com/Yo1k/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 ## About
 API service that aggregates reviews from users on various artworks 
